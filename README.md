@@ -83,4 +83,4 @@ jupyter notebook Predictive_Analytics_Sales_Forecast.ipynb
 
 ## Author
 
-<Your Name>
+Kusuma Somashatti - [GitHub](https://github.com/kusumasomashattiecerymec-crypto) | [LinkedIn](https://www.linkedin.com/in/kusuma-somashatti/)
